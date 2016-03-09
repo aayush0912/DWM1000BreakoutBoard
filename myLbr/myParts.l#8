@@ -447,7 +447,7 @@
 <wire x1="12.7" y1="15.24" x2="12.7" y2="-27.94" width="0.254" layer="94"/>
 <wire x1="12.7" y1="-27.94" x2="-15.24" y2="-27.94" width="0.254" layer="94"/>
 <wire x1="-15.24" y1="-27.94" x2="-15.24" y2="15.24" width="0.254" layer="94"/>
-<text x="-5.08" y="10.16" size="2.54" layer="95">&gt;NAME</text>
+<text x="-7.62" y="10.16" size="2.54" layer="95">&gt;NAME</text>
 <pin name="MISO" x="-17.78" y="-17.78" length="short"/>
 <pin name="RX" x="-17.78" y="-20.32" length="short"/>
 <pin name="TX" x="-17.78" y="-22.86" length="short"/>
